@@ -1,0 +1,10 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,2026-10-05,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P001,Instant pancit canton,Noodles,5,16.00
+ORD-2001,2026-10-05,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P002,3-in-1 coffee sachet,Beverages,10,9.00
+ORD-2002,2026-10-05,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P003,Canned sardines 155g,Canned Goods,4,25.00
+ORD-2002,2026-10-05,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P004,Softdrink 1.5L,Beverages,2,75.00
+ORD-2003,2026-10-06,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P005,Rice 1kg,Grains,3,52.00
+ORD-2003,2026-10-06,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P006,Bath soap bar,Personal care,2,30.00
+ORD-2004,2026-10-06,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P001,Instant pancit canton,Noodles,,16.00
+ORD-2005,2026-10-06,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P004,Softdrink 1.5L,Beverages,-2,75.00
+ORD-2006,2026-10-19,S004,Pia Ganda Sari-Sari,Brgy. 490,Manila,P002,3-in-1 coffee sachet,Beverages,2,9.00

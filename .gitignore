@@ -1,0 +1,21 @@
+# Logs
+logs/
+**/logs/
+
+# Generated data lake contents
+datalake/*
+!datalake/.gitkeep
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
